@@ -35,5 +35,5 @@
 	  instead of the current (3rd) version of it as it needs to parse the additional value. It could also be adjusted so that the value does not _have_ to be present but to show the possibility and keep the code easily readable I did not do that.
 * [x] Adjust the config for the jsonld generation in the first step of the flow to test and show the possibility of having a different prime language than Dutch
 * [x] Inlcude a first small Demo of the entire flow
-	* A fully written conclusion (what has been done, found and adjusted errors, remarks) on that can be found [here]()
+	* A fully written conclusion (what has been done, found and adjusted errors, remarks) on that can be found [here](https://github.com/AnnemarieWittig/internship-diary/blob/main/Detailed%20Descriptions/Conclusion%20Demo%201.md).
 * [ ] Include a demo with a full eap file
