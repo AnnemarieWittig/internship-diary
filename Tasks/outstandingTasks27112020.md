@@ -5,7 +5,8 @@
 * [ ] translate the generic parts of the templates to english / German
   * [ ] English templates
   * [x] German templates
-    * [ ] compare German-machine translation with English templates
+    * [x] compare German-machine translation with English templates AP
+    * [ ] compare German-machine translation with English templates VOC
 * [ ] translate a text on conformity
 * [ ] add contributors, editors, etc
 
@@ -18,9 +19,12 @@
 
 * [ ] export generic variables like PRIMELANGUAGE to an environment variable setting (sync with Joeri, new teammember)
 * [ ] make the circleci iterate over multiple targetlanguages
-* [ ] multilingual subjectpages (already committed)?
+* [x] multilingual subjectpages (already committed)?
+  * [ ] Test all types
+  * [ ] Translate all types to German (done for concept, conceptscheme)
+  * [x] Fix Header in 'More'-Tables
 
 **some future extension:**
 
-* [ ] create a new template for editorial support. where next to each term a 'comment' button is which initiates an github issue https://github.com/Informatievlaanderen/duet/issues/new?title=hellotest&body=topic1
+* [x] create a new template for editorial support. where next to each term a 'comment' button is which initiates an github issue https://github.com/Informatievlaanderen/duet/issues/new?title=hellotest&body=topic1
 * [ ] a variant of the same template, but then using mailto: as the issue creator action
