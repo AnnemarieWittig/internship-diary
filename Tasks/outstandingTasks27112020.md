@@ -27,4 +27,4 @@
 **some future extension:**
 
 * [x] create a new template for editorial support. where next to each term a 'comment' button is which initiates an github issue https://github.com/Informatievlaanderen/duet/issues/new?title=hellotest&body=topic1
-* [ ] a variant of the same template, but then using mailto: as the issue creator action
+* [x] a variant of the same template, but then using mailto: as the issue creator action
