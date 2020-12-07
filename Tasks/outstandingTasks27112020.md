@@ -12,7 +12,7 @@
 
 **outstanding generic editorial tasks:**  
 
-* [ ] a neutral welcome page (keep only standardsregister, vocabularia, applicatieprofielen, supportive tools & technical alignments)
+* [x] a neutral welcome page (keep only standardsregister, vocabularia, applicatieprofielen, supportive tools & technical alignments)
 * [ ] a setup with UML modeling documentations (demo_oslodoc)
 
 **outstanding technical tasks:**
