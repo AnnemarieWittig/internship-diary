@@ -37,4 +37,4 @@
 * [x] Inlcude a first small Demo of the entire flow
 	* A fully written conclusion (what has been done, found and adjusted errors, remarks) on that can be found [here](https://github.com/AnnemarieWittig/internship-diary/blob/main/Detailed%20Descriptions/Conclusion%20Demo%201.md).
 * [x] Adjust the negotiation proxy to allow German resources both in code and test and correct spelling mistakes
-* [ ] Include a demo with a full eap file
+* [x] Include a demo with a full eap file
